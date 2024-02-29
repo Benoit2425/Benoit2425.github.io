@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Afizzionados.mx" tvg-logo="https://i.imgur.com/HBOHkgL.png" group-title="Mexico",Afizzionados (576p)
+https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="Mexico",Azteca 7 (720p) [Geo-blocked]
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Mexico",TUDN (720p)
+https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Mexico",Las Estrellas (576p)
+https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Mexico",Canal 5 (1080p)
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HBO | Dual Audio ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/16897
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TELESUR
+https://nxt.plus:8443/Aliancista/914830/27594
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",LOS SIMPSON
+https://nxt.plus:8443/Aliancista/914830/161585
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",GOLPERU
+https://nxt.plus:8443/Aliancista/914830/9758
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",TNT SPORTS | AR ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/213178
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",TNT SPORTS 2** (CL)
+https://nxt.plus:8443/Aliancista/914830/191452
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",TNT SPORTS 3*** (CL)
+https://nxt.plus:8443/Aliancista/914830/183279
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",TNT SPORTS HD** (CL)
+https://nxt.plus:8443/Aliancista/914830/191454
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",TNT SPORTS HD (CL)
+https://nxt.plus:8443/Aliancista/914830/184411
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",TNT SPORTS | AR ᴴᴰ*
+https://nxt.plus:8443/Aliancista/914830/25121
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN PREMIUM | AR ᴴᴰ**
+https://nxt.plus:8443/Aliancista/914830/213179
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 1 | CENTRO AME HD
+https://nxt.plus:8443/Aliancista/914830/201932
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 3 | SUR ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/3267
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 2 | SUR
+https://nxt.plus:8443/Aliancista/914830/767
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 2 | MX ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/134386
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 3 | MX ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/29764
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",STAR+ || ESPN LIGA PRO
+https://nxt.plus:8443/Aliancista/914830/196293
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",STAR+ || ESPN 2 LIGA PRO 
+https://nxt.plus:8443/Aliancista/914830/196292
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 1 | MX ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/166748
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",NFL NETWORK ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/15030
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",DAZN F1 ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/25278
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",TELEMUNDO MIAMI ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/15639
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",FOX DEPORTES | US ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/58606
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",FOX SOCCER PLUS HD
+https://nxt.plus:8443/Aliancista/914830/197315
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",SKY SPORTS LA LIGA ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/201471
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",BEIN SPORTS | US ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/58063
+#EXTINF:-1 tvg-id="" tvg-name="---??| BEIN SPORT |??---" tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png" group-title="BEIN SPORTS MENA",---??| BEIN SPORT |??---
+http://x.v-iptv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/22460.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 2 MAX FHD" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 2 MAX FHD
+http://x.v-iptv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/124077.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS 4 MAX SD" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_MAX4_DIGITAL_Mono.png" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS 4 MAX SD
+http://x.v-iptv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/124085.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS GLOBAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS GLOBAL
+http://x.v-iptv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/9156.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.AR.| BEIN SPORTS GLOBAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/BeIN_SPORTS_Global_logo_2017.jpg" group-title="BEIN SPORTS MENA",|.AR.| BEIN SPORTS GLOBAL HD
+http://x.v-iptv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/30750.ts
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE HD" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="FRANCE SPORT",|FR| CANAL+ PREMIER LEAGUE HD
+http://x.v-iptv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/125118.ts
+#EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE FHD" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="FRANCE SPORT",|FR| CANAL+ PREMIER LEAGUE FHD
+http://x.v-iptv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/115017.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",MOVISTAR +
+https://nxt.plus:8443/Aliancista/914830/191173
+#EXTINF:-1 tvg-id="" tvg-name="|US| UFC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="USA SPORTS",|US| UFC Network
+http://x.v-iptv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/141692.ts
+#EXTINF:-1 tvg-id="" ,PEACOCK PREMIER LEAGUE
+http://sm-media.live:8080/play/qlEFHle_UMv5R4310Jten7Svte1bQbCYiVO288LkgsU/ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wwe",WWE ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/24992
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Wwe",FOX SPORTS PREMIUM | MX ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/29785
+#EXTINF:-1 tvg-id="Fox_Sports_2.mx" tvg-logo="" group-title="Wwe",Fox Sports 2
+http://stream.flynetwifi.com:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox_Sports_3.mx" tvg-logo="" group-title="Wwe",Fox Sports 3
+http://stream.flynetwifi.com:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox_Sports_.mx" tvg-logo="" group-title="Wwe",Fox Sports Mexico
+http://stream.flynetwifi.com:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="AEW",|US| TBS
+http://x.v-iptv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/142243.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="AEW",|US| TBS
+http://x.v-iptv.com:25443/live/MAGJNtGLZi4wQ/Ds5YsFJtot/142243.ts
+#EXTINF:-1 tvg-id="" group-title="AEW", USA_TBS
+http://sm-media.live:8080/play/qlEFHle_UMv5R4310JtenyordtgOavLbtp5Mdp5wpjc/ts
+#EXTINF:-1 tvg-id="" tvg-name="|US| ET TV USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="USA",|US| ET TV USA
+http://x.v-iptv.com:25443/live/MAGJNtGLZi4wQ/Ds5YsFJtot/141526.ts
+EXTINF:-1 tvg-id="USANetwork.us" tvg-name="|US| USA Network" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9CFE26C322-seeklogo.com.png" group-title="USA ENTERTAINMENT",|US| USA Network
+http://x.v-iptv.com:25443/live/MAGJNtGLZi4wQ/Ds5YsFJtot/142258.ts
+#EXTINF:-1 tvg-id="" tvg-name="|US| TNT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Logo.svg/1280px-TNT_Logo.svg.png" group-title="USA ENTERTAINMENT",|US| TNT West
+http://x.v-iptv.com:25443/live/MAGJNtGLZi4wQ/Ds5YsFJtot/141444.ts
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="|US| TNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Logo.svg/1280px-TNT_Logo.svg.png" group-title="USA ENTERTAINMENT",|US| TNT HD
+http://x.v-iptv.com:25443/live/MAGJNtGLZi4wQ/Ds5YsFJtot/141445.ts
+#EXTINF:-1 tvg-id="", USA: TNT
+http://sm-media.live:8080/play/qlEFHle_UMv5R4310Jten-JPQRcYZEiA2iRFYhYAf5Y/ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TNT ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/25213
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TNT | US ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/169280
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TNT ᴴᴰ
+https://nxt.plus:8443/Aliancista/914830/172535
+#EXTINF:-1 tvg-id="KMSS.us" tvg-name="|US| Fox 33 Shreveport Louisiana KMSS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/KMSSlogo2015.png" group-title="USA FOX",|US| Fox 33 Shreveport Louisiana KMSS TV
+http://x.v-iptv.com:25443/live/MAGJNtGLZi4wQ/Ds5YsFJtot/141861.ts
+#EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtg3QQSPYrFUu5kL4fHXnBYivYp.jpg" group-title="SERIES NETFLIX",Ozark S01 E01
+http://x.v-iptv.com:25443/series/V5iIaBZOzLNq/357xqvYM1q/79906.mkv
+
+
