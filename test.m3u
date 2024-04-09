@@ -9,12 +9,14 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="Mexico",Canal 5 (1080p)
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",HBO | Dual Audio ᴴᴰ
 https://nxt.plus:8443/Aliancista/914830/16897
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",TELESUR
 https://nxt.plus:8443/Aliancista/914830/27594
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",LOS SIMPSON
 https://nxt.plus:8443/Aliancista/914830/161585
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",GOLPERU
 https://nxt.plus:8443/Aliancista/914830/9758
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",TNT SPORTS | AR ᴴᴰ
@@ -47,6 +49,18 @@ https://nxt.plus:8443/Aliancista/914830/196293
 https://nxt.plus:8443/Aliancista/914830/196292
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN 1 | MX ᴴᴰ
 https://nxt.plus:8443/Aliancista/914830/166748
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",UCL 2
+https://nxt.plus:8443/kalilo/kalilo123/224895
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",UCL
+https://nxt.plus:8443/kalilo/kalilo123/18800
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",UCL 1
+https://nxt.plus:8443/kalilo/kalilo123/213178
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",ESPN PREMIUM | AR ᴴᴰ**
+https://nxt.plus:8443/kalilo/kalilo123/213179
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",STAR+ || ESPN LIGA PRO
+https://nxt.plus:8443/kalilo/kalilo123/196293
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",STAR+ || ESPN 2 LIGA PRO 
+https://nxt.plus:8443/kalilo/kalilo123/226078
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",NFL NETWORK ᴴᴰ
 https://nxt.plus:8443/Aliancista/914830/15030
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",DAZN F1 ᴴᴰ
@@ -75,8 +89,6 @@ http://x.v-iptv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/30750.ts
 http://x.v-iptv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/125118.ts
 #EXTINF:-1 tvg-id="CanalPlusPremierLeague.fr" tvg-name="|FR| CANAL+ PREMIER LEAGUE FHD" tvg-logo="https://pbs.twimg.com/media/EMOdAg8WwAAa8xS.png" group-title="FRANCE SPORT",|FR| CANAL+ PREMIER LEAGUE FHD
 http://x.v-iptv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/115017.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Deportes",MOVISTAR +
-https://nxt.plus:8443/Aliancista/914830/191173
 #EXTINF:-1 tvg-id="" tvg-name="|US| UFC Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/UFC_Network.png" group-title="USA SPORTS",|US| UFC Network
 http://x.v-iptv.com:25443/live/V5iIaBZOzLNq/357xqvYM1q/141692.ts
 #EXTINF:-1 tvg-id="" ,PEACOCK PREMIER LEAGUE
@@ -99,7 +111,9 @@ http://x.v-iptv.com:25443/live/MAGJNtGLZi4wQ/Ds5YsFJtot/142243.ts
 http://sm-media.live:8080/play/qlEFHle_UMv5R4310JtenyordtgOavLbtp5Mdp5wpjc/ts
 #EXTINF:-1 tvg-id="" tvg-name="|US| ET TV USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="USA",|US| ET TV USA
 http://x.v-iptv.com:25443/live/MAGJNtGLZi4wQ/Ds5YsFJtot/141526.ts
-EXTINF:-1 tvg-id="USANetwork.us" tvg-name="|US| USA Network" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9CFE26C322-seeklogo.com.png" group-title="USA ENTERTAINMENT",|US| USA Network
+#EXTINF:-1 tvg-id="" tvg-name="usa network",USA NETWORK ᴴᴰ
+https://nxt.plus:8443/kalilo/kalilo123/18736
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="|US| USA Network" tvg-logo="https://seeklogo.com/images/U/usa-network-logo-9CFE26C322-seeklogo.com.png" group-title="USA ENTERTAINMENT",|US| USA Network
 http://x.v-iptv.com:25443/live/MAGJNtGLZi4wQ/Ds5YsFJtot/142258.ts
 #EXTINF:-1 tvg-id="" tvg-name="|US| TNT West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TNT_Logo.svg/1280px-TNT_Logo.svg.png" group-title="USA ENTERTAINMENT",|US| TNT West
 http://x.v-iptv.com:25443/live/MAGJNtGLZi4wQ/Ds5YsFJtot/141444.ts
@@ -115,7 +129,7 @@ https://nxt.plus:8443/Aliancista/914830/169280
 https://nxt.plus:8443/Aliancista/914830/172535
 #EXTINF:-1 tvg-id="KMSS.us" tvg-name="|US| Fox 33 Shreveport Louisiana KMSS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/KMSSlogo2015.png" group-title="USA FOX",|US| Fox 33 Shreveport Louisiana KMSS TV
 http://x.v-iptv.com:25443/live/MAGJNtGLZi4wQ/Ds5YsFJtot/141861.ts
-#EXTINF:-1 tvg-id="" tvg-name="Ozark S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtg3QQSPYrFUu5kL4fHXnBYivYp.jpg" group-title="SERIES NETFLIX",Ozark S01 E01
-http://x.v-iptv.com:25443/series/V5iIaBZOzLNq/357xqvYM1q/79906.mkv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="fox",FOX NEW YORK ᴴᴰ
+https://nxt.plus:8443/kalilo/kalilo123/169423
 
 
